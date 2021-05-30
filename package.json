@@ -1,0 +1,11 @@
+{
+  "name": "exports-async",
+  "version": "1.0.0",
+  "description": "FiveM implementation of Async exports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
